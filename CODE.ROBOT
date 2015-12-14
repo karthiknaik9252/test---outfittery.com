@@ -4,7 +4,7 @@ Library     Selenium2Library
 *** Test Cases ***
 Test on Outfittery website.
 #TEST CASE 1
-Test case 1 : This is to ckeck the Landing page of the Outfittery website
+Test case 1 : This is to check the Landing page of the Outfittery website
     open browser  https://www.outfittery.com/   ff
     maximize browser window
     wait until page contains  SHOPPING FOR MEN
