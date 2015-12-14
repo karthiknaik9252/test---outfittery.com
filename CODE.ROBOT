@@ -18,7 +18,7 @@ Test case 1 : This is to check the Landing page of the Outfittery website
     close browser
 
 #TEST CASE 2
-Test case 2 : This is to check the user navigating by selecting all the opptions to Create a profile
+Test case 2 : This is to check the user navigating by selecting all the options to Create a profile
 
     Open Browser  https://www.outfittery.com  ff
     maximize browser window
