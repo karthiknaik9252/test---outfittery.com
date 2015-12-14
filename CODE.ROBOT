@@ -111,5 +111,6 @@ Test case 5 : This is to check the Customer Login with facebook credential
     input text  xpath=//*[@id="email"]  ram.kingishere.raj@gmail.com
     input password  xpath=//*[@id="pass"]   goodboys
     click element  xpath=//*[@id="u_0_2"]
+    click element  xpath=//*[@id="platformDialogForm"]/div[2]/table/tbody/tr/td[2]/button[2]
     sleep  3
     Close Browser
