@@ -63,6 +63,8 @@ Open the terminal
 
 View -> tool windows -> Terminal -> here you can run this command to run the test  'pybot -d results code\code.robot'
 
+after the test complete we can view the results in results directory and we can find the log in HTML format  
+
 
 
 
